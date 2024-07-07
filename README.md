@@ -18,6 +18,7 @@
 ## FIle Structure
 Javascript backend functions (that interact with API gateway and lambda functions) are in aws-react-app/src/api
 Lambda functions that are triggered via DynamoDB stream and API Gateway are in backend folder
+React APP Frontend is in aws-react-app/src/App.js and aws-react-app/src/App.css
 
 
 ## Extra Features
