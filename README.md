@@ -24,3 +24,11 @@ Lambda functions that are triggered via DynamoDB stream and API Gateway are in b
 
 React app displays live contents of the database. Input vs Output database can be toggled, as well as refreshed.
 
+## Deployment
+
+1. Clone into repository
+2. cd into aws-react-app
+3. npm install
+4. npm start
+
+   
