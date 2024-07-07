@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import { getPresignedUrl, uploadToPresignedUrl, saveToDatabase, fetchDatabaseContents } from './api/submitForm';
+import { getPresignedUrl, uploadToPresignedUrl, saveToDatabase, fetchDatabaseContents } from './api/functions';
 
 function App() {
   const [text, setText] = useState('');
