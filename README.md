@@ -34,6 +34,8 @@ React app displays live contents of the database. Input vs Output database can b
 3. npm install
 4. npm start
 
+A test input file is available in the backend folder
+
 ## DEMO
 https://youtu.be/oJlGFd0PHoQ
 
