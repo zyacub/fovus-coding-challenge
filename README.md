@@ -15,6 +15,10 @@
 - [x] After saving the inputs and S3 path in DynamoDB filetable, your system will create a new VM based on the event (not a pre-provisioned VM) and trigger the script to run automatically with error handling (no sleep)
 - [x] Professional code and reader-friendly README file
 
+## FIle Structure
+Javascript backend functions (that interact with API gateway and lambda functions) are in aws-react-app/src/api
+Lambda functions that are triggered via DynamoDB stream and API Gateway are in backend folder
+
 
 ## Extra Features
 
