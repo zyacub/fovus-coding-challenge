@@ -39,10 +39,15 @@ https://youtu.be/oJlGFd0PHoQ
 
 ## Resources
 https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html
+
 https://aws.plainenglish.io/create-ec2-instances-with-lambda-a0a885e2b295
+
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html
+
 https://medium.com/@brianhulela/upload-files-to-aws-s3-bucket-from-react-using-pre-signed-urls-543cca728ab8
+
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html
+
 https://react.dev/
 
 
